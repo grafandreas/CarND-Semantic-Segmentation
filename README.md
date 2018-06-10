@@ -27,5 +27,6 @@ These are results from the run:
 |frozen|no|yes|
 |epochs|50|50|
 |batch size|1|3|
-|uu_000099.png|![][cpu-png/uu_000099.png]|![][gpu-png/uu_000099.png]|
+|uu_000099.png|![](cpu-png/uu_000099.png)|![](gpu-png/uu_000099.png)|
+
 
