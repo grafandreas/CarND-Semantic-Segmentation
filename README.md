@@ -20,6 +20,8 @@ and introducing more code to deal correctly with the variables.
 Both runs have significantly improvement on loss during the epochs, however, obviously, the full retraining achieves even better values.
 
 These are results from the run:
+
+
 | | Variant A | Variant B |
 |---|---|---|
 |frozen|no|yes|
