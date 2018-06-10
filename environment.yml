@@ -1,0 +1,13 @@
+name: path-planning
+channels:
+  - https://conda.anaconda.org/menpo
+  - conda-forge
+dependencies:
+  - python==3.6
+  - scikit-learn
+  - scikit-image
+  - numpy
+  - tqdm
+  - pip:
+    - tensorflow-gpu==1.8
+  
